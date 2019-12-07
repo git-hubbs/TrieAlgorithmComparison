@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jason Hubbs/Desktop/P3-Resume/BSTNode.hpp
+iostream
+-
+fstream
+-
+string
+-
+
+C:/Users/Jason Hubbs/Desktop/P3-Resume/BSTTrie.cpp
+BSTTrie.hpp
+C:/Users/Jason Hubbs/Desktop/P3-Resume/BSTTrie.hpp
+
+C:/Users/Jason Hubbs/Desktop/P3-Resume/BSTTrie.hpp
+BSTNode.hpp
+C:/Users/Jason Hubbs/Desktop/P3-Resume/BSTNode.hpp
+
